@@ -1,0 +1,19 @@
+{
+  "name": "node.js-http-server",
+  "version": "1.0.0",
+  "description": "http server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertvlasiu/Node.js-HTTP-Server.git"
+  },
+  "author": "Robert Vlasiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertvlasiu/Node.js-HTTP-Server/issues"
+  },
+  "homepage": "https://github.com/robertvlasiu/Node.js-HTTP-Server#readme"
+}
